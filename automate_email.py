@@ -59,7 +59,7 @@ def create_and_send_email(page):
 
 @then('the email with the attachment should be successfully sent')
 def verify_email_sent(page):
-    # Placeholder for validating successful email send. Adjust validation as needed.
+    # Checks if the user was successfully redirected after sending the email.
     assert 'https://mail.yahoo.com/d/folders/' in page.url, "There was an error sending the message."
 
 @when('the user logs out')
