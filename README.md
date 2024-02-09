@@ -2,7 +2,7 @@
 
 This project demonstrates how to automate email interactions, including login, composing an email with an attachment, sending the email, and logout, on Yahoo Mail using Playwright and pytest-bdd in Python.
 
-https://github.com/Hilmerson/Playwright_test/assets/103628349/7e9e0075-d514-4cba-90ed-f89bfa9a3c37
+https://github.com/Hilmerson/Playwright_test/assets/103628349/0fece2f5-2391-459a-be22-d69f67253854
 
 ## Features
 
