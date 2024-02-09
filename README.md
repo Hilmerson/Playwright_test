@@ -50,7 +50,7 @@ This project demonstrates how to automate email interactions, including login, c
 
 5. **Run the tests**:
     ```bash
-    pytest
+    pytest nameofyourfile.py
     ```
 
 ## Usage
